@@ -1,0 +1,15 @@
+[04-Sep-2025 13:03:48 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'property_id' in 'field list' in /home/customer/www/rsoa110.millioncoders.net/public_html/AIRBNB/confirm_booking.php:73
+Stack trace:
+#0 /home/customer/www/rsoa110.millioncoders.net/public_html/AIRBNB/confirm_booking.php(73): mysqli->query('INSERT INTO boo...')
+#1 {main}
+  thrown in /home/customer/www/rsoa110.millioncoders.net/public_html/AIRBNB/confirm_booking.php on line 73
+[04-Sep-2025 13:47:20 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'property_id' in 'field list' in /home/customer/www/rsoa110.millioncoders.net/public_html/AIRBNB/confirm_booking.php:73
+Stack trace:
+#0 /home/customer/www/rsoa110.millioncoders.net/public_html/AIRBNB/confirm_booking.php(73): mysqli->query('INSERT INTO boo...')
+#1 {main}
+  thrown in /home/customer/www/rsoa110.millioncoders.net/public_html/AIRBNB/confirm_booking.php on line 73
+[04-Sep-2025 16:25:59 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'property_id' in 'field list' in /home/customer/www/rsoa110.millioncoders.net/public_html/AIRBNB/confirm_booking.php:73
+Stack trace:
+#0 /home/customer/www/rsoa110.millioncoders.net/public_html/AIRBNB/confirm_booking.php(73): mysqli->query('INSERT INTO boo...')
+#1 {main}
+  thrown in /home/customer/www/rsoa110.millioncoders.net/public_html/AIRBNB/confirm_booking.php on line 73
